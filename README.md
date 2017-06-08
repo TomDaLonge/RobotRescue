@@ -1,5 +1,5 @@
 # RobotRescue
-Pathfinding using the A* Algorithm
+Simulation of guiding a roboter through a minefield one step at a time using the A* Algorithm
 
 # Course
 Intelligent Systems Design / 3. Semester
